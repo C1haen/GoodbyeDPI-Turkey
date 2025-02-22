@@ -18,4 +18,5 @@ Biliyorsunuzki ülkemizde bir çok uygulama yasaklandı, Discord ve Roblox bunla
 7- Eğer bir sorun yaşarsanız benimle iletişime geçmekten çekinmeyin!
 
 Discord: C1haen
+
 Discord-Dev-Feedback: C2haen
