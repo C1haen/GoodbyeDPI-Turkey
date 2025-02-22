@@ -1,5 +1,5 @@
 # GoodbyeDPI-Turkey
-Biliyorsunuzki ülkemizde bir çok uygulama yasaklandı, Discord ve Roblox bunlara örnek verilebilir. Bir çok kişi bunun önüne geçebilmek için VPN tarzı programlar kullanıyor fakat bu hem interneti yavaşlatıyor hem bağlantı sorunları yaşatıyor hemde veri sızıntısı gibi durumlar yaşatabiliyor bunun önüne geçebilmek amacıyla GoodbyeDPI tam size göre bu Tool sizin Proxy'nizi değiştirerek internetinizi yavaşlatmadan veri çaldırmadan bağlantı problemleri yaşatmadan bağlantı sağlar.
+Biliyorsunuzki ülkemizde bir çok uygulama yasaklandı, Discord ve Roblox bunlara örnek verilebilir. Bir çok kişi bunun önüne geçebilmek için VPN tarzı programlar kullanıyor fakat bu hem interneti yavaşlatıyor hem bağlantı sorunları yaşatıyor hemde veri sızıntısı gibi durumlar yaşatabiliyor bunun önüne geçebilmek amacıyla GoodbyeDPI tam size göre bu Tool sizin DNS'inizi değiştirerek internetinizi yavaşlatmadan veri çaldırmadan bağlantı problemleri yaşatmadan bağlantı sağlar.
 
 # Program nasıl kurulur?
 
